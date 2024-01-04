@@ -37,6 +37,12 @@ Prediction results of these four models :
 
 ## Quick Start
 
+Cloning the repository
+
+```
+git clone https://github.com/akshath-srin/Text-Mining-Project-1.git
+```
+
 Create and activate conda environment
 
 ```
