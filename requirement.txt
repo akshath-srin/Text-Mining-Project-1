@@ -1,0 +1,6 @@
+numpy
+python-crfsuite
+six==1.12.0
+sklearn-crfsuite==0.3.6
+tabulate==0.8.3
+tqdm==4.31.1
