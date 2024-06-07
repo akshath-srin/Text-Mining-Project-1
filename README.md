@@ -24,16 +24,6 @@ Example:
 
 The dataset is located in the `ResumeNER` folder.
 
-## Results
-Prediction results of these four models :
-
-| Model       | Recall  | Precision | F1 Score |
-|-------------|---------|-----------|----------|
-| HMM         | 91.22%  | 91.49%    | 91.30%   |
-| CRF         | 95.43%  | 95.43%    | 95.42%   |
-| BiLSTM      | 95.34%  | 95.38%    | 95.30%   |
-| BiLSTM+CRF  | 95.62%  | 95.66%    | 95.62%   |
-
 
 ## Quick Start
 
